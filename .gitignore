@@ -1,0 +1,5 @@
+poetry.lock
+*test.js
+.vscode
+.env
+**/**/__pycache__

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "qradar-tweak"
+version = "0.1.0"
+description = ""
+authors = ["Ahmad Febrianto <ahmad.febrianto.acc@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^2.3.3"
+playsound = "1.2.2"
+requests = "^2.31.0"
+environs = "^10.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
