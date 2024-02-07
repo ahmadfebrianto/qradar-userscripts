@@ -1,5 +1,5 @@
 poetry.lock
-*test.js
+# *test.js
 .vscode
 .env
 **/**/__pycache__
